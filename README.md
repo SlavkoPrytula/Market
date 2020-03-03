@@ -30,7 +30,7 @@
 
 ![Alt text](https://github.com/SlavkoPrytula/NoteBook/blob/master/Screenshot_20200303_220813.png?raw=true "Title")
 
-![Alt text](https://github.com/SlavkoPrytula/NoteBook/blob/master/Screenshot_20200303_220855.png.png?raw=true "Title")
+![Alt text](https://github.com/SlavkoPrytula/NoteBook/blob/master/Screenshot_20200303_220855.png?raw=true "Title")
 
 
 
