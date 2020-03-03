@@ -22,9 +22,15 @@
 
 
 #### Main Page
-![Alt text](https://github.com/SlavkoPrytula/Map_LR_2/blob/master/Screenshot_20200218_145424-1.png?raw=true "Title")
+![Alt text](https://github.com/SlavkoPrytula/NoteBook/blob/master/Screenshot_20200303_220653.png?raw=true "Title")
 
-![Alt text](https://github.com/SlavkoPrytula/Map_LR_2/blob/master/Screenshot_20200218_153418.png?raw=true "Title")
+![Alt text](https://github.com/SlavkoPrytula/NoteBook/blob/master/Screenshot_20200303_220740.png?raw=true "Title")
+
+![Alt text](https://github.com/SlavkoPrytula/NoteBook/blob/master/Screenshot_20200303_220749.png?raw=true "Title")
+
+![Alt text](https://github.com/SlavkoPrytula/NoteBook/blob/master/Screenshot_20200303_220813.png?raw=true "Title")
+
+![Alt text](https://github.com/SlavkoPrytula/NoteBook/blob/master/Screenshot_20200303_220855.png.png?raw=true "Title")
 
 
 
