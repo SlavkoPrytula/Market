@@ -4,7 +4,7 @@
 ### PROGRAM USE
 
 - ##### Module:
-  - The Menu Class gives you an oportunity to chase what you want to do:
+  - The Menu Class gives you an opportunity to choose what you want to do:
     - Show all Notes; 
     - Search Notes; 
     - Add Note; 
